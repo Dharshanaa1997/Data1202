@@ -21,9 +21,8 @@ It also demonstrates how to correct data formats using the .astype() method.
 Deployment:
 
 This code can be integrated into any data preprocessing pipeline or used as a standalone script for data cleaning tasks.
-Author:
 
-Dharsana Kamaraj
+Author:Dharsana Kamaraj
 
 License:
 This project is licensed under the MIT License.
