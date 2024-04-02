@@ -23,9 +23,11 @@ This code can be integrated into any data preprocessing pipeline or used as a st
 Author:
 
 Dharsana Kamaraj
-License:
 
+License:
 This project is licensed under the MIT License.
+
+
 Acknowledgement:
 The code provided in this repository is for educational purposes and was adapted from a data analytics lab exercise.
 The code provided in this repository is for educational purposes and was adapted from a data analytics lab exercise.
