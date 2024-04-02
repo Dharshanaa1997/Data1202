@@ -7,6 +7,7 @@ Prerequisites:
 Python 3 installed on your system.
 Basic knowledge of Python programming.
 Installation of pandas library (pip install pandas).
+
 Installing:
 
 Clone this repository to your local machine using git clone <repository_url>.
